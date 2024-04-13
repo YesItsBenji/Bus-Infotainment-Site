@@ -51053,7 +51053,7 @@ A.VS.prototype={
 K(a){var s,r=null,q=A.b([A.bU(r,8,r),new A.tF(new A.aqT(this),r)],t.p)
 if(this.d){s=A.fB(r,r,B.ug,r,r,r,r,r,r,r,r,r,r,r,new A.bN(A.dx(4),B.l),r,r,r,r,r)
 q.push(A.ap(r,A.eS(A.bs("Continue to application...",r,r,r,A.ei().$4$color$fontSize$fontWeight$letterSpacing(B.m,15,B.bU,0.5),r,r),new A.aqU(a),s),B.i,r,r,r,32,new A.aD(8,8,8,8),r,1/0))}q.push(A.bU(r,8,r))
-q.push(A.bs("Version 0.1.0",r,r,r,A.b1w().$3$color$fontSize$fontWeight(B.Ks,12,B.w),r,r))
+q.push(A.bs("Version 0.2.0",r,r,r,A.b1w().$3$color$fontSize$fontWeight(B.Ks,12,B.w),r,r))
 return A.ai8(r,A.ap(B.K,A.dJ(q,B.R,B.J,B.bF),B.i,r,r,r,r,r,r,r),r)}}
 A.aqT.prototype={
 $0(){var s=this.a
