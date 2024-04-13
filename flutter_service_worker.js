@@ -3,9 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "74bde7995898bace8fcc32be70d2490b",
-"assets/AssetManifest.bin.json": "8505297bb31ac5d27400a9694fdbb09a",
-"assets/AssetManifest.json": "f27991a4aa3c9fc235157d30e2aa28cf",
+const RESOURCES = {".idea/modules.xml": "9e76b956e97dbf7d14a4b3d83c8c2375",
+".idea/web.iml": "52309cb9c39acd18405af3f5b894551e",
+".idea/workspace.xml": "3dc0bc48bfb625a5cdf8e9b92a3fba43",
+"assets/AssetManifest.bin": "decf33b1398d266b9630618651b14a14",
+"assets/AssetManifest.bin.json": "2a873c034f9803b7600e83cb27007e96",
+"assets/AssetManifest.json": "30576f8f74c07c19f6911d3f97582956",
+"assets/assets/audio/5-seconds-of-silence.mp3": "c80b2ce89d8e125f6b6e69c0f2015b22",
 "assets/assets/audio/manual_announcements/buggysafety.mp3": "d7ebe58d12adb93dba83316a1208e90e",
 "assets/assets/audio/manual_announcements/busondiversion.mp3": "3507be7273a1802ddee975f596600586",
 "assets/assets/audio/manual_announcements/busterminateshere.mp3": "a3f117aa5c83794d3a62265b6fb1f4a7",
@@ -54,9 +58,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "74bde7995898bace8fcc32be70d2490b
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "bca4196b8ce62379ad167386731741ad",
-"/": "bca4196b8ce62379ad167386731741ad",
-"main.dart.js": "c67560d39f8fd6d4def72eed5dcec195",
+"index.html": "0e87d57c64461234a56f1208c9b17042",
+"/": "0e87d57c64461234a56f1208c9b17042",
+"main.dart.js": "d22fdb7eb52c2ca02bf8aee88b3b7dee",
 "manifest.json": "2202d416808dd8acb5fdd104d52fb6b1",
 "version.json": "fd7e8466557d3b727c228a3ff60561f0"};
 // The application shell files that are downloaded before a service worker can
