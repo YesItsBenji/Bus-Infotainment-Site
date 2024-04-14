@@ -29,7 +29,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "7559045ac730aa9f684af995135c7e27
 "assets/assets/datasets/bus-sequences.csv": "4dd3a8754e6542df67edec61357f2594",
 "assets/assets/fonts/ibus/london-buses-ibus.ttf": "fd4492a2f3aba9f9f33f1065b18b7e8f",
 "assets/assets/fonts/lcd/lcddot.ttf": "5bca0e6226c5efcdf97dcfb4793b9037",
-"assets/assets/version.txt": "df91e475efb86aa58b6f3353472ec6e9",
+"assets/assets/version.txt": "d337384d9018f6b8cd71ad535b644cc6",
 "assets/FontManifest.json": "d281ea49b2c235fc51c0966badaa73cb",
 "assets/fonts/MaterialIcons-Regular.otf": "ffe305e8644031e04d20b84b4d91f462",
 "assets/NOTICES": "abda41a19fc988a18b36c2e8775ea867",
@@ -56,9 +56,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "7559045ac730aa9f684af995135c7e27
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "fbcb041eebff7061e703042964817f3a",
-"/": "fbcb041eebff7061e703042964817f3a",
-"main.dart.js": "69cacd0f236285bb5ae9440c894b72bd",
+"index.html": "9ea6a58a3724ce43f7dcdcfeddb5b6fd",
+"/": "9ea6a58a3724ce43f7dcdcfeddb5b6fd",
+"main.dart.js": "610416a2948458400d4a6fadff5f0e5e",
 "manifest.json": "2202d416808dd8acb5fdd104d52fb6b1",
 "version.json": "fd7e8466557d3b727c228a3ff60561f0"};
 // The application shell files that are downloaded before a service worker can
