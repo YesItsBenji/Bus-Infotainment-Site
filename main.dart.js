@@ -50691,7 +50691,7 @@ var $async$it=A.n(function(b3,b4){if(b3===1){p=b4
 s=q}while(true)switch(s){case 0:A.aw("Loading bus sequences from assets")
 l=$.mQ()
 s=2
-return A.l(l.JY("assets/datasets/bus-destinations.csv"),$async$it)
+return A.l(l.JY("assets/datasets/bus-blinds.csv"),$async$it)
 case 2:n=b4
 A.aw(n)
 b0=A
