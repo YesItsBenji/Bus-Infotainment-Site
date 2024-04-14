@@ -3,8 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {".idea/workspace.xml": "48c0734bbc09e2b6475077b5b9ad7abc",
-"assets/AssetManifest.bin": "7559045ac730aa9f684af995135c7e27",
+const RESOURCES = {"assets/AssetManifest.bin": "7559045ac730aa9f684af995135c7e27",
 "assets/AssetManifest.bin.json": "9beb98379f91d298a5c30b8b9aae5f2d",
 "assets/AssetManifest.json": "81002f7be8f4405b981383bd802b3c8c",
 "assets/assets/audio/5-seconds-of-silence.mp3": "c80b2ce89d8e125f6b6e69c0f2015b22",
@@ -30,7 +29,7 @@ const RESOURCES = {".idea/workspace.xml": "48c0734bbc09e2b6475077b5b9ad7abc",
 "assets/assets/datasets/bus-sequences.csv": "4dd3a8754e6542df67edec61357f2594",
 "assets/assets/fonts/ibus/london-buses-ibus.ttf": "fd4492a2f3aba9f9f33f1065b18b7e8f",
 "assets/assets/fonts/lcd/lcddot.ttf": "5bca0e6226c5efcdf97dcfb4793b9037",
-"assets/assets/version.txt": "a2256b3f308f7598eb07abcb2f1fc340",
+"assets/assets/version.txt": "df91e475efb86aa58b6f3353472ec6e9",
 "assets/FontManifest.json": "d281ea49b2c235fc51c0966badaa73cb",
 "assets/fonts/MaterialIcons-Regular.otf": "ffe305e8644031e04d20b84b4d91f462",
 "assets/NOTICES": "abda41a19fc988a18b36c2e8775ea867",
@@ -57,9 +56,9 @@ const RESOURCES = {".idea/workspace.xml": "48c0734bbc09e2b6475077b5b9ad7abc",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "367b20c70937aefe60030cf82ca10d45",
-"/": "367b20c70937aefe60030cf82ca10d45",
-"main.dart.js": "6a43b85791b215093cb0893ac29cc603",
+"index.html": "11748235a7933479d742d47534da6945",
+"/": "11748235a7933479d742d47534da6945",
+"main.dart.js": "b5082e5553cc0153acff4e5ffa6ec1ed",
 "manifest.json": "2202d416808dd8acb5fdd104d52fb6b1",
 "version.json": "fd7e8466557d3b727c228a3ff60561f0"};
 // The application shell files that are downloaded before a service worker can
