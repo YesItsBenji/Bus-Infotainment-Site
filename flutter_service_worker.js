@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "7559045ac730aa9f684af995135c7e27",
+const RESOURCES = {".idea/workspace.xml": "48c0734bbc09e2b6475077b5b9ad7abc",
+"assets/AssetManifest.bin": "7559045ac730aa9f684af995135c7e27",
 "assets/AssetManifest.bin.json": "9beb98379f91d298a5c30b8b9aae5f2d",
 "assets/AssetManifest.json": "81002f7be8f4405b981383bd802b3c8c",
 "assets/assets/audio/5-seconds-of-silence.mp3": "c80b2ce89d8e125f6b6e69c0f2015b22",
@@ -56,9 +57,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "7559045ac730aa9f684af995135c7e27
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "0685769f72b5e6a4b60e6e8579b839e2",
-"/": "0685769f72b5e6a4b60e6e8579b839e2",
-"main.dart.js": "980a612ce1f2d7850327df94f23e47b9",
+"index.html": "4dfa26bc9b77914d3cd8300320aacea9",
+"/": "4dfa26bc9b77914d3cd8300320aacea9",
+"main.dart.js": "7c9805cd0a6a2a7d07a2d820ab7e45fd",
 "manifest.json": "2202d416808dd8acb5fdd104d52fb6b1",
 "version.json": "fd7e8466557d3b727c228a3ff60561f0"};
 // The application shell files that are downloaded before a service worker can

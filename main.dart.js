@@ -50933,7 +50933,9 @@ o=a.c
 o===$&&A.a()
 k=o.a
 A.ay("Checkpoint 4.2")
-j=a.gVJ(0).a
+o=a.gVJ(0)
+j=o==null?null:o.a
+if(j==null)j="NullPointerException"
 A.ay("Checkpoint 4.3")
 i="R_"+k+"_001.mp3"
 A.ay("Checkpoint 5")
