@@ -52082,7 +52082,8 @@ k.b=l.a[0]
 k.c=l.a[1]
 p.b.push(k)
 a.l(0,q,p)
-a0.l(0,o,k)}catch(a9){}j=B.mk.Av(b5,b2)
+a0.l(0,o,k)}catch(a9){}A.aw("Loaded "+a0.a+" destinations")
+j=B.mk.Av(b5,b2)
 J.azh(j,0)
 for(i=0,b2=t.yu;i<J.aV(j);++i)try{h=J.U(j,i)
 g=J.ah(J.U(h,0))
